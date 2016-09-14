@@ -1,0 +1,23 @@
+PODS:
+  - AWSCognito (2.4.8):
+    - AWSCore (= 2.4.8)
+  - AWSCognitoIdentityProvider (2.4.8):
+    - AWSCore (= 2.4.8)
+  - AWSCore (2.4.8)
+  - AWSS3 (2.4.8):
+    - AWSCore (= 2.4.8)
+
+DEPENDENCIES:
+  - AWSCognito
+  - AWSCognitoIdentityProvider
+  - AWSS3
+
+SPEC CHECKSUMS:
+  AWSCognito: 63ae70c4ff94656f7a36892c45680bbb311b7381
+  AWSCognitoIdentityProvider: a36003a2eef4376d05525e0f4c2cc27e0c2351eb
+  AWSCore: 7bc7e845f532dedc65b133cdf518bb44a2e28dfe
+  AWSS3: f48121d50ddd73e830c3522c44772a70fce29f27
+
+PODFILE CHECKSUM: 76bec57c1ba9061180f7a147cbd08b2e034399ae
+
+COCOAPODS: 1.0.1

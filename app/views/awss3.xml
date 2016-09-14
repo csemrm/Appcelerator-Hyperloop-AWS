@@ -1,0 +1,11 @@
+<Alloy>
+	<Window id="win" title="AWS S3">
+
+		<ScrollView>
+	
+			<View class="awss3" id="awss3_container"></View>
+	
+		</ScrollView>
+
+	</Window>
+</Alloy>
